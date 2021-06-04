@@ -1,0 +1,10 @@
+E:\Work\MSA\Semester 6 Spring 21\CS352 Advanced Operating Systems\Project\Disk_Scheduling\Disk_Scheduling\bin\Debug\FCFS Algorithm.exe.config
+E:\Work\MSA\Semester 6 Spring 21\CS352 Advanced Operating Systems\Project\Disk_Scheduling\Disk_Scheduling\bin\Debug\FCFS Algorithm.exe
+E:\Work\MSA\Semester 6 Spring 21\CS352 Advanced Operating Systems\Project\Disk_Scheduling\Disk_Scheduling\bin\Debug\FCFS Algorithm.pdb
+E:\Work\MSA\Semester 6 Spring 21\CS352 Advanced Operating Systems\Project\Disk_Scheduling\Disk_Scheduling\obj\Debug\FCFS Algorithm.csprojAssemblyReference.cache
+E:\Work\MSA\Semester 6 Spring 21\CS352 Advanced Operating Systems\Project\Disk_Scheduling\Disk_Scheduling\obj\Debug\Disk_Scheduling.Form1.resources
+E:\Work\MSA\Semester 6 Spring 21\CS352 Advanced Operating Systems\Project\Disk_Scheduling\Disk_Scheduling\obj\Debug\FCFS_Algorithm.Properties.Resources.resources
+E:\Work\MSA\Semester 6 Spring 21\CS352 Advanced Operating Systems\Project\Disk_Scheduling\Disk_Scheduling\obj\Debug\FCFS Algorithm.csproj.GenerateResource.cache
+E:\Work\MSA\Semester 6 Spring 21\CS352 Advanced Operating Systems\Project\Disk_Scheduling\Disk_Scheduling\obj\Debug\FCFS Algorithm.csproj.CoreCompileInputs.cache
+E:\Work\MSA\Semester 6 Spring 21\CS352 Advanced Operating Systems\Project\Disk_Scheduling\Disk_Scheduling\obj\Debug\FCFS Algorithm.exe
+E:\Work\MSA\Semester 6 Spring 21\CS352 Advanced Operating Systems\Project\Disk_Scheduling\Disk_Scheduling\obj\Debug\FCFS Algorithm.pdb
