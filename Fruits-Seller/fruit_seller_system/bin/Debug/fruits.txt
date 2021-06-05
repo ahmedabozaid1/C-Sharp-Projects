@@ -1,5 +1,0 @@
-Apples,20,Apples.jpg,DarkRed
-Oranges,15,Oranges.jpg,Orange
-Banana,15,Bananas.jpg,Yellow
-kiwi,30,Kiwi.jpg,Brown
-Mango,30,Mango.jpg,Orange
