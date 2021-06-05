@@ -1,0 +1,29 @@
+I:\Material CS\UNI\Semester 4\CS232 Multimedia Programming\project\flappybirds\bin\Debug\flappybirds.exe.config
+I:\Material CS\UNI\Semester 4\CS232 Multimedia Programming\project\flappybirds\bin\Debug\flappybirds.exe
+I:\Material CS\UNI\Semester 4\CS232 Multimedia Programming\project\flappybirds\bin\Debug\flappybirds.pdb
+I:\Material CS\UNI\Semester 4\CS232 Multimedia Programming\project\flappybirds\obj\Debug\flappybirds.csprojAssemblyReference.cache
+I:\Material CS\UNI\Semester 4\CS232 Multimedia Programming\project\flappybirds\obj\Debug\flappybirds.bird.resources
+I:\Material CS\UNI\Semester 4\CS232 Multimedia Programming\project\flappybirds\obj\Debug\flappybirds.Properties.Resources.resources
+I:\Material CS\UNI\Semester 4\CS232 Multimedia Programming\project\flappybirds\obj\Debug\flappybirds.csproj.GenerateResource.cache
+I:\Material CS\UNI\Semester 4\CS232 Multimedia Programming\project\flappybirds\obj\Debug\flappybirds.csproj.CoreCompileInputs.cache
+I:\Material CS\UNI\Semester 4\CS232 Multimedia Programming\project\flappybirds\obj\Debug\flappybirds.exe
+I:\Material CS\UNI\Semester 4\CS232 Multimedia Programming\project\flappybirds\obj\Debug\flappybirds.pdb
+E:\Uni\Semester 4 Spring 20\CS232 Multimedia Programming\project\flappybirds\bin\Debug\flappybirds.exe.config
+E:\Uni\Semester 4 Spring 20\CS232 Multimedia Programming\project\flappybirds\bin\Debug\flappybirds.exe
+E:\Uni\Semester 4 Spring 20\CS232 Multimedia Programming\project\flappybirds\bin\Debug\flappybirds.pdb
+E:\Uni\Semester 4 Spring 20\CS232 Multimedia Programming\project\flappybirds\obj\Debug\flappybirds.csprojAssemblyReference.cache
+E:\Uni\Semester 4 Spring 20\CS232 Multimedia Programming\project\flappybirds\obj\Debug\flappybirds.bird.resources
+E:\Uni\Semester 4 Spring 20\CS232 Multimedia Programming\project\flappybirds\obj\Debug\flappybirds.Properties.Resources.resources
+E:\Uni\Semester 4 Spring 20\CS232 Multimedia Programming\project\flappybirds\obj\Debug\flappybirds.csproj.GenerateResource.cache
+E:\Uni\Semester 4 Spring 20\CS232 Multimedia Programming\project\flappybirds\obj\Debug\flappybirds.csproj.CoreCompileInputs.cache
+E:\Uni\Semester 4 Spring 20\CS232 Multimedia Programming\project\flappybirds\obj\Debug\flappybirds.exe
+E:\Uni\Semester 4 Spring 20\CS232 Multimedia Programming\project\flappybirds\obj\Debug\flappybirds.pdb
+E:\Work\MSA\Semester 4 Spring 20\CS232 Multimedia Programming\project\flappybirds\bin\Debug\flappybirds.exe.config
+E:\Work\MSA\Semester 4 Spring 20\CS232 Multimedia Programming\project\flappybirds\bin\Debug\flappybirds.exe
+E:\Work\MSA\Semester 4 Spring 20\CS232 Multimedia Programming\project\flappybirds\obj\Debug\flappybirds.csprojAssemblyReference.cache
+E:\Work\MSA\Semester 4 Spring 20\CS232 Multimedia Programming\project\flappybirds\obj\Debug\flappybirds.bird.resources
+E:\Work\MSA\Semester 4 Spring 20\CS232 Multimedia Programming\project\flappybirds\obj\Debug\flappybirds.Properties.Resources.resources
+E:\Work\MSA\Semester 4 Spring 20\CS232 Multimedia Programming\project\flappybirds\obj\Debug\flappybirds.csproj.GenerateResource.cache
+E:\Work\MSA\Semester 4 Spring 20\CS232 Multimedia Programming\project\flappybirds\obj\Debug\flappybirds.csproj.CoreCompileInputs.cache
+E:\Work\MSA\Semester 4 Spring 20\CS232 Multimedia Programming\project\flappybirds\obj\Debug\flappybirds.exe
+E:\Work\MSA\Semester 4 Spring 20\CS232 Multimedia Programming\project\flappybirds\obj\Debug\flappybirds.pdb
